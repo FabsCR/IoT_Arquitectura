@@ -1,4 +1,4 @@
-# IoT Digital Assistant
+# IoT Digital Assistant using Python and ADB
 
 Repositorio sobre el proyecto de IoT del curso de Arquitectura de Computadores
 
